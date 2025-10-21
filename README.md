@@ -6,7 +6,7 @@
 | Nama | NRP |
 |------|-----|
 | **Dinanti Vita Rachman** | 5026221190 |
-| **Maureen Ghassani Fadhliphya** | 5026221191 |
+| **Maureen Ghassani Fadhliphya** | 5026221193 |
 
 ---
 
