@@ -1,5 +1,12 @@
-# 🧠 ProjectA_Group10  
+# 🧠 Project A Group10  
 **Analisis Sentimen dan TF-IDF pada Artikel Berita tentang Emirates Airlines dengan Pendekatan Natural Language Processing (NLP)**  
+---
+
+👥 **Anggota Kelompok 10**
+| Nama | NRP |
+|------|-----|
+| **Dinanti Vita Rachman** | 5026221190 |
+| **Maureen Ghassani Fadhliphya** | 5026221191 |
 
 ---
 
