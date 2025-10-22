@@ -1,8 +1,11 @@
-# 🧠 Project A Group10  
+# 🧠 Project A Group 10  
 **Analisis Sentimen dan TF-IDF pada Artikel Berita tentang Emirates Airlines dengan Pendekatan Natural Language Processing (NLP)**  
+
+📄 **Laporan Lengkap:** [Klik di sini untuk melihat laporan Project A (PDF)](https://drive.google.com/file/d/1MskFKRU_5g-suCJ9Xxh_ApupP3lF1MOR/view?usp=sharing)
+
 ---
 
-👥 **Anggota Kelompok 10**
+## 👥 Anggota Kelompok
 | Nama | NRP |
 |------|-----|
 | **Dinanti Vita Rachman** | 5026221190 |
@@ -10,62 +13,63 @@
 
 ---
 
-## 📚 Deskripsi Proyek  
-
+## 📚 Deskripsi Proyek
 Proyek ini merupakan implementasi **Natural Language Processing (NLP)** untuk menganalisis pemberitaan internasional mengenai **Emirates Airlines**.  
 Pendekatan utama yang digunakan meliputi:
-- **TF-IDF** untuk menemukan kata kunci dominan,  
-- **Part-of-Speech (POS) Tagging** untuk menganalisis struktur linguistik,  
-- **Named Entity Recognition (NER)** untuk mengidentifikasi entitas penting, dan  
-- **Sentiment Analysis** menggunakan model **FinBERT** dari *Hugging Face Transformers*.  
+
+- **TF-IDF** → menemukan kata kunci dominan  
+- **Part-of-Speech (POS) Tagging** → menganalisis struktur linguistik  
+- **Named Entity Recognition (NER)** → mengidentifikasi entitas penting  
+- **Sentiment Analysis (FinBERT)** → mengukur kecenderungan opini media  
+
+Analisis dilakukan untuk memahami bagaimana media membingkai citra dan reputasi *Emirates Airlines* secara objektif.
 
 ---
 
-## 🎯 Tujuan Penelitian  
-
-- Mengidentifikasi topik dan kata kunci dominan dalam pemberitaan *Emirates Airlines*.  
-- Mengetahui kecenderungan sentimen (positif, netral, negatif) dalam berita internasional.  
-- Memahami bagaimana media membingkai citra dan reputasi perusahaan.  
-
----
-
-## ⚙️ Metodologi  
-
-1. **Data Collection**  
-   - Mengumpulkan 150 artikel berita dari media seperti *BBC, Reuters, CNN, Gulf News,* dan *Khaleej Times*.  
-   - Dilakukan dengan kombinasi *manual search* dan *web scraping* menggunakan `BeautifulSoup` dan `Trafilatura`.  
-
-2. **Preprocessing**  
-   - Cleaning, tokenization, stopword removal, dan lemmatization menggunakan `NLTK`.  
-   - Output: dataset teks bersih dan siap analisis.  
-
-3. **Feature Extraction (TF-IDF)**  
-   - Menggunakan `TfidfVectorizer` dari `scikit-learn`.  
-   - Menghasilkan kata dominan seperti *emirates*, *flight*, *dubai*, *airline*, dan *service*.  
-
-4. **Linguistic Analysis (POS & NER)**  
-   - POS Tagging dan Named Entity Recognition menggunakan `spaCy`.  
-   - Menemukan entitas penting seperti *Emirates*, *Dubai*, *UAE*, *Boeing*, *Tim Clark*.  
-
-5. **Sentiment Analysis (FinBERT)**  
-   - Menggunakan model `ProsusAI/finbert` untuk klasifikasi sentimen:  
-     - 🟩 Positif: **4.00%**  
-     - ⚪ Netral: **93.33%**  
-     - 🟥 Negatif: **2.67%**  
+## 🎯 Tujuan
+- Mengidentifikasi topik dan kata kunci dominan dalam pemberitaan *Emirates Airlines*  
+- Mengetahui kecenderungan sentimen (positif, netral, negatif) dalam berita internasional  
+- Memahami bagaimana media membentuk persepsi publik terhadap citra perusahaan  
 
 ---
 
-## 📊 Hasil Utama  
+## ⚙️ Metodologi
 
-- Mayoritas artikel bersentimen **netral**, menandakan pemberitaan bersifat objektif dan informatif.  
-- **Sentimen positif meningkat pada 2024**, bertepatan dengan ekspansi layanan & pertumbuhan finansial.  
-- **Sentimen negatif** muncul hanya pada kasus tertentu seperti penundaan penerbangan.  
-- Citra *Emirates Airlines* di media global tergolong **stabil dan positif**.  
+### 1. Data Collection
+- Mengumpulkan **151 artikel berita** dari media internasional: *BBC, Reuters, CNN, Gulf News,* dan *Khaleej Times*  
+- Pengumpulan dilakukan secara **manual search** dan **web scraping** menggunakan `BeautifulSoup` dan `Trafilatura`  
+
+### 2. Preprocessing
+- Cleaning teks dari HTML, angka, dan tanda baca  
+- Tokenization, stopword removal, dan lemmatization dengan `NLTK`  
+- Menghasilkan dataset teks bersih siap analisis  
+
+### 3. Feature Extraction (TF-IDF)
+- Menggunakan `TfidfVectorizer` dari `scikit-learn`  
+- Kata dominan: *emirates*, *flight*, *dubai*, *airline*, *service*  
+
+### 4. Linguistic Analysis (POS & NER)
+- **POS Tagging** dan **Named Entity Recognition** dilakukan dengan `spaCy`  
+- Entitas utama: *Emirates*, *Dubai*, *UAE*, *Boeing*, *Tim Clark*  
+
+### 5. Sentiment Analysis (FinBERT)
+- Model: `ProsusAI/finbert` dari *Hugging Face Transformers*  
+- Hasil klasifikasi:
+  - 🟩 **Positif:** 4.00%  
+  - ⚪ **Netral:** 93.33%  
+  - 🟥 **Negatif:** 2.67%
 
 ---
 
-## 🧩 Tools & Library  
+## 📊 Hasil Utama
+- Mayoritas berita bersentimen **netral**, menunjukkan pemberitaan yang objektif dan informatif.  
+- **Sentimen positif meningkat pada 2024**, seiring ekspansi layanan dan pertumbuhan finansial.  
+- **Sentimen negatif** muncul secara situasional (misalnya keterlambatan atau gangguan operasional).  
+- Citra *Emirates Airlines* di media global tergolong **stabil dan positif secara konsisten.**
 
+---
+
+## 🧩 Tools & Library
 | Kategori | Library |
 |-----------|----------|
 | **Scraping** | `requests`, `BeautifulSoup`, `trafilatura`, `newspaper3k` |
@@ -75,4 +79,18 @@ Pendekatan utama yang digunakan meliputi:
 
 ---
 
+## 🧠 Insight
+Pendekatan NLP seperti ini dapat digunakan untuk:
+- **Analisis reputasi digital** suatu perusahaan  
+- **Pemantauan media (media monitoring)**  
+- **Analisis framing dan persepsi publik** terhadap isu atau brand tertentu  
 
+---
+
+## 🔗 Referensi Laporan
+Laporan lengkap Project A tersedia di Google Drive:  
+👉 [https://drive.google.com/file/d/1MskFKRU_5g-suCJ9Xxh_ApupP3lF1MOR/view?usp=sharing](https://drive.google.com/file/d/1MskFKRU_5g-suCJ9Xxh_ApupP3lF1MOR/view?usp=sharing)
+
+---
+
+✳️ *Departemen Sistem Informasi — Fakultas Teknologi Elektro dan Informatika Cerdas (FTEIC) — Institut Teknologi Sepuluh Nopember, 2025*
