@@ -1,7 +1,7 @@
 # 🧠 Project A Group 10  
 **Analisis Sentimen dan TF-IDF pada Artikel Berita tentang Emirates Airlines dengan Pendekatan Natural Language Processing (NLP)**  
 
-📄 **Laporan Lengkap:** [Klik di sini untuk melihat laporan Project A (PDF)](https://drive.google.com/file/d/1MskFKRU_5g-suCJ9Xxh_ApupP3lF1MOR/view?usp=sharing)
+📄 **Laporan Lengkap:** [Klik di sini untuk melihat laporan Project A (PDF)](https://drive.google.com/file/d/1QskrWnTEmLUOhQqfg0dpRkfZVppqkSQc/view?usp=sharing)
 
 ---
 
@@ -89,7 +89,7 @@ Pendekatan NLP seperti ini dapat digunakan untuk:
 
 ## 🔗 Referensi Laporan
 Laporan lengkap Project A tersedia di Google Drive:  
-👉 [https://drive.google.com/file/d/1MskFKRU_5g-suCJ9Xxh_ApupP3lF1MOR/view?usp=sharing](https://drive.google.com/file/d/1MskFKRU_5g-suCJ9Xxh_ApupP3lF1MOR/view?usp=sharing)
+👉 [https://drive.google.com/file/d/1MskFKRU_5g-suCJ9Xxh_ApupP3lF1MOR/view?usp=sharing](https://drive.google.com/file/d/1QskrWnTEmLUOhQqfg0dpRkfZVppqkSQc/view?usp=sharing)
 
 ---
 
