@@ -95,7 +95,7 @@ Emirates Airlines yang telah dilabeli secara manual.
 
 ### 1. Dataset
 - Dataset hasil Project A
-- Total artikel: **N = 130**
+- Total artikel: **N = 150**
 - Bahasa: **English (EN)**
 - Label sentimen:  
   - 0 → Negative  
