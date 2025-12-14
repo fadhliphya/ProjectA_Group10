@@ -4,8 +4,7 @@ Analisis Sentimen Menggunakan BERT**
 
 📄 Laporan Lengkap Project A: [Klik di sini untuk melihat laporan Project A (PDF)](https://drive.google.com/file/d/1QskrWnTEmLUOhQqfg0dpRkfZVppqkSQc/view?usp=sharing)
 
-📄 Laporan Lengkap Project B: [Klik di sini untuk melihat laporan Project B (PDF)]
-(https://drive.google.com/file/d/1fARPtibv45kb8MhyFc4ZY9IrJjOGUdb9/view?usp=sharing).
+📄 Laporan Lengkap Project B: [Klik di sini untuk melihat laporan Project B (PDF)](https://drive.google.com/file/d/1fARPtibv45kb8MhyFc4ZY9IrJjOGUdb9/view?usp=sharing).
 
 ---
 
@@ -142,12 +141,10 @@ Emirates Airlines yang telah dilabeli secara manual.
 
 ## 🔗 Referensi Laporan
 Laporan lengkap Project A tersedia di Google Drive:  
-👉 [Laporan Lengkap Project A]
-(https://drive.google.com/file/d/1QskrWnTEmLUOhQqfg0dpRkfZVppqkSQc/view?usp=sharing).
+👉 [Laporan Lengkap Project A](https://drive.google.com/file/d/1QskrWnTEmLUOhQqfg0dpRkfZVppqkSQc/view?usp=sharing).
 
 Laporan Lengkap Project B tersedia di Google Drive: 
-👉 [Laporan Lengkap Project B}
-(https://drive.google.com/drive/folders/1eKRDLEahBuMXquNzXzI9AMKIgzMXnJoP?usp=drive_link).
+👉 [Laporan Lengkap Project B](https://drive.google.com/drive/folders/1eKRDLEahBuMXquNzXzI9AMKIgzMXnJoP?usp=drive_link).
 
 ---
 
