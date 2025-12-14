@@ -38,7 +38,7 @@ struktur linguistik, serta kecenderungan sentimen media terhadap Emirates Airlin
 ## ⚙️ Metodologi Project A
 
 ### 1. Data Akuisisi
-- Total artikel: **N = 130**
+- Total artikel: **N = 150**
 - Bahasa artikel: **English (EN)**
 - Sumber: Reuters, BBC, CNN, Gulf News, Khaleej Times, dan media internasional lainnya
 - Periode pengambilan data ditentukan secara manual
