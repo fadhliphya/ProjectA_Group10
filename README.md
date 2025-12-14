@@ -1,7 +1,8 @@
 # 🧠 Project A Group 10  
 **Analisis Sentimen dan TF-IDF pada Artikel Berita tentang Emirates Airlines dengan Pendekatan Natural Language Processing (NLP)**  
+**Analisis Sentimen Menggunakan BERT**
 
-📄 **Laporan Lengkap:** [Klik di sini untuk melihat laporan Project A (PDF)](https://drive.google.com/file/d/1QskrWnTEmLUOhQqfg0dpRkfZVppqkSQc/view?usp=sharing)
+📄 **Laporan Lengkap Project A dan B:** [Klik di sini untuk melihat laporan Project A (PDF)](https://drive.google.com/file/d/1QskrWnTEmLUOhQqfg0dpRkfZVppqkSQc/view?usp=sharing)
 
 ---
 
