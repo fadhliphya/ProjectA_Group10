@@ -17,8 +17,7 @@ Analisis Sentimen Menggunakan BERT**
 ---
 
 # 📘 PROJECT A  
-## Analisis Sentimen dan TF-IDF pada Artikel Berita tentang Emirates Airlines  
-### dengan Pendekatan Natural Language Processing (NLP)
+## Analisis Sentimen dan TF-IDF pada Artikel Berita tentang Emirates Airlines dengan Pendekatan Natural Language Processing (NLP)
 
 ---
 
